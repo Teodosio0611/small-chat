@@ -1,0 +1,3 @@
+/Users/huangfeijie/smallchat/CMakeFiles/smallchat-server.dir
+/Users/huangfeijie/smallchat/CMakeFiles/edit_cache.dir
+/Users/huangfeijie/smallchat/CMakeFiles/rebuild_cache.dir
